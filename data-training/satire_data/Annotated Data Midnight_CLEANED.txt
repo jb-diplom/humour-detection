@@ -1,0 +1,846 @@
+Identification Number	Tweet-Text	Original Ranking		New Humour Ranking	Humour Type
+					
+748933089922052000	@midnight  #AmericaIn4Words  Corn syrup and salt	0		2	3
+748932145285128000	"@midnight  #AmericaIn4Words  Tastes great, less filling"	0		1	
+748939438307192000	#americain4words home of walking dead @midnight	0		1	
+748925811017781000	Even police kill you #AmericaIn4Words @midnight	0		1	
+748927856999358000	"What the fuck, guys? #AmericaIn4Words @midnight"	0		1	
+748929661976076000	Democrats America's Retarded People  #AmericaIn4Words @midnight	0		1	
+748930176747208000	Don't f**% with us.  #AmericaIn4Words @midnight	0		2	7
+748926695277752000	"Red, White, and Nudes #AmericaIn4Words @midnight"	0		1	
+748938865117843000	@midnight too many fat kids #americain4words	0		1	
+748926601472143000	Bacon goes in everything #AmericaIn4Words @midnight	0		2	6
+748931019315744000	@midnight #AmericaIn4Words Gun Toting Queer Bashers #PointsMe #July4thBirthday	0		1	
+748928640021389000	We love our guns.  #AmericaIn4Words @midnight	0		2	7
+748928454784086000	Fireworks blew off fingers.  #AmericaIn4Words @midnight	0		1	
+748925830013788000	Need To Get Out #AmericaIn4Words @midnight	0		1	
+748938055139155000	#AmericaIn4Words brass knuckles are illegal!? @midnight	0		2	8
+748934608859922000	Guns Nascar Beer Oligarchy  #AmericaIn4Words @midnight	0		1	
+748939878394531000	@midnight Beyonce is our queen #AmericaIn4Words	0		1	
+748930307777294000	The movie was better. @midnight #AmericaIn4Words	0		1	
+748939567256961000	Make War Not Love #AmericaIn4Words @midnight	0		1	
+748933658560507000	We Were Always Great  #AmericaIn4Words @midnight	0		1	
+748926439332974000	"Guns, God, Government Corruption #AmericaIn4Words @midnight"	0		2	7
+748930794291421000	@midnight #AmericaIn4Words Twerking Ever Since 2013  #PointsMe #July4thBirthday	0		1	
+748926986848964000	Home of the trucknuts #AmericaIn4Words @midnight	0		1	
+748926385683460000	We copy British television. @midnight #AmericaIn4Words	0		1	
+748931596535881000	@midnight #AmericaIn4Words IT'S MY FUCKING BIRTHDAY! #POINTSME #JULY4THBIRTHDAY	0		1	
+748930657217314000	@midnight #AmericaIn4Words Obesity Still Runs Rampant #PointsMe #July4thBirthday	0		1	
+748926581188489000	Every Problem Is Shootable #AmericaIn4Words @midnight	0		3	5
+748928416334905000	Sorry for Limp Bizkit #AmericaIn4Words @midnight	0		1	
+748939358443565000	Consequences are for sissies. #AmericaIn4Words @midnight	0		1	
+748929291992391000	"Sorry, I'm from Canada. #AmericaIn4Words @midnight"	0		1	
+748930528947109000	@midnight #AmericaIn4Words Free Till @realDonaldTrump Wins #PointsMe #July4thBirthday	0		1	
+748931045035216000	America merica Merica MERICA @midnight #AmericaIn4Words	0		1	
+748934748224061000	@midnight  #AmericaIn4Words - Star Spangled Dumpster Fire	0		2	7
+748932517722353000	Coming Right For US!   #AmericaIn4Words @midnight @SadlyCatless @midnight	0		1	
+748937436466704000	"Not perfect, not Venezuela #AmericaIn4Words @midnight"	0		1	
+748931111343063000	@midnight #AmericaIn4Words We're All Bullies Here #PointsMe #July4thBirthday	0		1	
+748924662567018000	Deep-fried Chocolate-covered Hostess Twinkie #AmericaIn4Words @midnight	0		2	7
+748933741267922000	#americain4words @midnight hot dog stuffed pizza	0		1	
+748928610451525000	Wants to rule everything #AmericaIn4Words @midnight	0		1	
+748930969391001000	Democrats are all Women (even the ones who stand to pee) #AmericaIn4Words @midnight	0		1	
+748931209619709000	@midnight #AmericaIn4Words Confused About Sexual Identity #PointsMe #July4thBirthday	0		1	
+748926339546247000	Trump or Hillary? Really?! #AmericaIn4Words @midnight	0		1	
+748933758959570000	But we're we really?  #AmericaIn4Words @midnight	0		1	
+748927778964123000	Y'all mothafuckas need Jesus @midnight #AmericaIn4Words	0		1	
+748930920283906000	Immigrants rallying against immigration #AmericaIn4Words @midnight	0		1	
+748927630834032000	"Conquer natives, make mascots #AmericaIn4Words @midnight"	0		1	
+748938224605679000	#Americain4words @midnight Land of the Lawsuits	0		1	
+748934301136277000	Don't stop me now.  #AmericaIn4Words @midnight	0		1	
+748930260452798000	Still figuring things out #AmericaIn4Words @midnight	0		1	
+748929954335879000	We won't do Metric!  #AmericaIn4Words @midnight	0		1	
+748927688421834000	We're all educated good.  #AmericaIn4Words @midnight	0		1	
+748926868892639000	How Free Are You? #AmericaIn4Words @midnight	0		1	
+748935919533776000	Safe 4th of July. #AmericaIn4Words @midnight	0		1	
+748938103780417000	Political discourse: Flinging poo #AmericaIn4Words @midnight	0		1	
+748937873856999000	@midnight #Americain4words Freedom with resources	0		1	
+748926715221671000	"Home of 52"" Pants #AmericaIn4Words @midnight"	0		1	
+748931340465242000	@midnight #AmericaIn4Words W're STILL PLAYING BASEBALL #PointsMe #July4thBirthday	0		1	
+748931479221182000	@midnight #AmericaIn4Words Other Countries Are Stupidurer #PointsMe #July4thBirthday	0		2	3
+748936267979583000	The 4th of July #AmericaIn4Words @midnight	0		1	
+748925236339355000	Trump might actually win. #AmericaIn4Words @midnight	0		1	
+748929222857596000	Democratic Dummys FUCKED UP  #AmericaIn4Words  @midnight	0		1	
+748930292723884000	There is still hope. @midnight #AmericaIn4Words	0		1	
+748930908380692000	@midnight #AmericaIn4Words Pizzas Have Hot Dogs #PointsMe #Jul4thBirthday	0		2	3
+748931502008856000	Republicans always fix Democratic-Fuckups  #AmericaIn4Words @midnight	0		1	
+748930363762892000	@midnight #AmericaIn4Words Marijuana And Homosexual Approved! #PointsMe #July4thBirthday	0		1	
+748930232107794000	@midnight #AmericaIn4Words Nation Full Of Hillbllies #PointsMe #July4thBirthday	0		1	
+748940183207284000	When do we eat? #AmericaIn4Words @midnight	0		2	7
+748931700101488000	Purge will become reality @midnight #AmericaIn4Words	0		1	
+748932656767856000	@midnight  #AmericaIn4Words  Deep fried corn dogs	0		1	
+748928804517777000	Guns. Guns. More guns!!!  #AmericaIn4Words @midnight	0		1	
+748928221794693000	Half will vote Trump.  #AmericaIn4Words @midnight	0		1	
+748734683437862000	"Welp, it's been nice. #AmericaIn4Words @midnight"	1		2	6
+748720408564736000	Complaining makes it better #AmericaIn4Words @midnight	1		1	
+748754057762779000	Everything delivered. Except justice. #AmericaIn4Words @midnight	1		1	
+748748175041712000	"Sex, drugs and wak-a-mole. #AmericaIn4Words @midnight"	1		1	
+748729090903912000	Idiocracy's Insanely Long Prequel #AmericaIn4Words @midnight	1		2	3
+748743725380055000	Bible Belt around neck #AmericaIn4Words @midnight	1		1	
+748768511388897000	The secret is lard. #AmericaIn4Words @midnight	1		2	7
+748731795537924000	Directed by Michael Bay #AmericaIn4Words @midnight	2		2	7
+748725329196306000	Flip-flops are formal #AmericaIn4Words @midnight	1		1	
+748741517431349000	"Guns, fine. Nipples, scary! #AmericaIn4Words @midnight"	1		2	6
+					
+					
+654005218393264000	how much respect does my cat lose for me when I cry-masturbate? @midnight #BetterDebateQuestions	0		1	
+654021247832096000	Who are those two dudes next to Hillary and Bernie? #BetterDebateQuestions @midnight	0		1	
+654023230445871000	"@midnight #BetterDebateQuestions Would you rather have your legacy preserved with presidential library, or presidential water park?"	0		1	
+654032807811919000	Do I look fat in these jeans? #BetterDebateQuestions @midnight	0		1	
+654007674720227000	@elizacollins1 @politico but will he have all the #BetterDebateQuestions we created for them with @midnight ?	0		1	
+654001352968900000	Knock knock #BetterDebateQuestions @midnight	0		2	4
+653783262691725000	Can you actually explain the ending to Lost? #BetterDebateQuestions @midnight	1		1	
+653817839271473000	"If a tree falls in the woods and Fox News isn't there to report on it, is it still Obama's fault? #BetterDebateQuestions @midnight"	1		2	4
+654016299614490000	Who let the dogs out? #BetterDebateQuestions @midnight	0		2	3
+654021999514128000	Fold or crumple? #BetterDebateQuestions @midnight	0		1	
+654002362286116000	Will you tell us up front if you are going to get a blow job in the oval office? #BetterDebateQuestions #transparency @midnight	0		1	
+654016268035448000	"@midnight Mr. Sanders, who are you wearing? #BetterDebateQuestions"	0		1	
+654037492803350000	#BetterDebateQuestions @midnight Do they offer an early bird special for prostitution?	0		1	
+654004453096296000	#BetterDebateQuestions @midnight   How many times a day do you hear the voice of god?	0		1	
+653998973523468000	"@midnight Who is the better liar, the candidate to your left or right?  #BetterDebateQuestions"	0		1	
+654000441525673000	@midnight After Hillary &amp; Bernie take the stage can the remaining candidates make sure to have a picture I.D. ready? #BetterDebateQuestions	0		1	
+654032680078589000	Does anybody remember laughter? #BetterDebateQuestions @midnight	0		1	
+654020073716232000	"I heard gingers don't have a soul, is that true? #BetterDebateQuestions @midnight"	0		1	
+654005325041823000	is keanu reeves immortal? @midnight #BetterDebateQuestions	0		1	
+654008913835204000	How many Democrats does it take to change a light bulb and can they write it off on their taxes? #BetterDebateQuestions @midnight	0		1	
+653994660239642000	If @JaredLeto wore a dress...would you?  #BetterDebateQuestions @midnight	0		1	
+654027629293621000	"@midnight #BetterDebateQuestions Is your ideal voter someone who shares your beliefs, or someone who'd like to have a beer with you?"	0		1	
+654020960601796000	What is your contingency plan for the inevitable zombie apocalypse?#BetterDebateQuestions @midnight	0		1	
+654007132745007000	Do you believe #FoxNews is more in the bag for Jeb or Marco? #BetterDebateQuestions @midnight	0		1	
+654010531016216000	"In your opinion, who looks better in blue, Monica or the Blue Man Group? #BetterDebateQuestions @midnight"	0		1	
+654017391165177000	#BetterDebateQuestions @midnight How will your blind narcissism be a strength regarding foreign policy?	0		1	
+654017829482528000	"Mr Trump, could you clarify who let the dogs out? #BetterDebateQuestions @midnight"	0		1	
+653785729009475000	Do you know why I pulled you over? #BetterDebateQuestions @midnight	1		1	
+654000696530968000	"Marry, Boff, Kill: Trump, Bush, Fiorina #BetterDebateQuestions @midnight"	0		1	
+653782633000775000	Can I get a what what? #BetterDebateQuestions @midnight	1		2	1
+654006213332496000	but I gotta kn-kn-kn-know wha-what's your fan-ta-ta-sy? @midnight #BetterDebateQuestions	0		1	
+654014718244470000	"Politics aside, Do you dress to the left or right? #BetterDebateQuestions @midnight"	0		2	1
+654022326233759000	#betterdebatequestions Are these the droids you are looking for? @midnight	0		1	
+654021276919435000	"If you expect the unexpected, is it still unexpected? #BetterDebateQuestions @midnight"	0		1	
+654009454984339000	"During flu season, will reporters be allowed on Air Force One?  #BetterDebateQuestions @midnight"	0		1	
+653815880317468000	What is your stance on entering a hash tag war? #BetterDebateQuestions  @midnight	1		1	
+653996724495720000	"At my cousin Ruthie's wedding, the groom's brother was that guy Alakazam. You know who I'm talking about? #BetterDebateQuestions @midnight"	0		1	
+653999690241974000	megaloDON or heteroDONtosaruas...which Don besides Trump would you endorse? #BetterDebateQuestions @midnight	0		1	
+654030614589386000	@midnight What non-political experiences do you bring to the table? #BetterDebateQuestions	0		1	
+654022626088611000	Are blondes really more fun? #BetterDebateQuestions @midnight	0		1	
+653995369240633000	Is snapchat in discussion for a legitimate addiction? #BetterDebateQuestions @midnight	0		1	
+653994070830936000	What is your interpretation of the movie Inception? @midnight #BetterDebateQuestions	0		1	
+654037898841292000	"Charmander, squirtle or bulbasaur? #BetterDebateQuestions @midnight"	0		1	
+653777816266387000	Do u even lift bro? #BetterDebateQuestions @midnight	1		2	1
+654005420793593000	Does this look infected to you? @midnight #BetterDebateQuestions	0		1	
+654016419718258000	"Can you point to #Benghazi on a on a map, Mrs. Clinton? #BetterDebateQuestions @midnight"	0		1	
+654030430790922000	How do you solve a problem like Maria? @midnight  #BetterDebateQuestions	0		1	
+654025577683361000	@midnight #BetterDebateQuestions Do you promise to 'commit to the bit'?	0		1	
+654030978029981000	do you still have the gently used bedpans for sale on craigslist? #BetterDebateQuestions @midnight	0		1	
+654001590362243000	Do you know the muffin man? #BetterDebateQuestions @midnight	0		2	4
+654006206332190000	George Bush! Great President or GREATEST President? #BetterDebateQuestions @midnight	0		1	
+653995018483552000	Ready for Star Wars The Force Awakens? #BetterDebateQuestions @midnight	0		1	
+654017991466700000	"@midnight true or false: we don't give a shit about your stances, as long as you beat Trump. #BetterDebateQuestions"	0		1	
+654017081516490000	Do you want fries with that? #BetterDebateQuestions @midnight	0		1	
+654005086763544000	"@midnight If your mistress was having an abortion, where would you tell your wife the maid is ""vacationing?"" #BetterDebateQuestions"	0		1	
+654007199325294000	What's the deal with airline food? #BetterDebateQuestions @midnight	0		1	
+654038867331301000	@midnight @hardwick Did @tacobell &amp; @ModeloUSA go halve-sies on music/voice actor for their commercials? #BetterDebateQuestions #ChodeBottle	0		1	
+654001861976985000	Man Bunsyay or nay?  #BetterDebateQuestions @midnight 	0		1	
+654035416325206000	#BetterDebateQuestions @midnight Would you rather - your gran's body with Kate Upton's face or Kate Upton's body with your gran's face?	0		1	
+654009884384587000	How much do hair transplants cost and can you write them off on your taxes? #BetterDebateQuestions @midnight	0		1	
+654021185898868000	Which one of you is picking @Beyonce as their running mate? #BetterDebateQuestions @midnight	0		1	
+654009900100513000	Any of you think that Trump should have to come clean about his hair in order to continue his campaign? #BetterDebateQuestions @midnight	0		2	7
+654016795473408000	"#BetterDebateQuestions @midnight ""Fuck, Marry, Kill: JFK, Reagan, Thomas Jefferson""."	0		1	
+653991769542144000	Who is this Ben Ghazi Fella? #BetterDebateQuestions @midnight	0		2	3
+654003789473673000	Can you quack like a duck?  @midnight #BetterDebateQuestions	0		2	1
+654005298471006000	Where will our country be if Trump wins? Ever seen Idiocracy... About that far... Hope u like Brawndo. #BetterDebateQuestions  @midnight	0		1	
+654007531249995000	"If H.W. is the father, and W. Is the son, what is Jeb? #BetterDebateQuestions  @midnight"	0		2	4
+653793741547794000	"Are you now, or have you ever been a member of the KISS Army? #BetterDebateQuestions @midnight"	1		1	
+654003390704324000	"Is that you, Santa Claus? #BetterDebateQuestions  @midnight"	0		1	
+654017765234245000	Hillary:  boxers or briefs?  #BetterDebateQuestions @midnight	0		1	
+653993678122450000	How do I get to first base? @midnight  #BetterDebateQuestions	0		1	
+654006271436320000	Mrs. Clinton is the real reason you hid your text because of the sexting between you and President Obama #BetterDebateQuestions @midnight	0		1	
+654011555747635000	Which of the three little pigs do you feel you most closely resemble and why? #BetterDebateQuestions @midnight	0		2	3
+654015874609733000	Better one... or better two? #BetterDebateQuestions @midnight	0		1	
+654008238187282000	@midnight #BetterDebateQuestions What weapon would you use while fighting off a horde of walkers?	0		1	
+654015897162510000	@midnight Why is Donald Trump still a candidate? #BetterDebateQuestions	0		2	8
+654038201775071000	Would you rather have dick sized nipples or a nipple sized dick? #BetterDebateQuestions @midnight	0		1	
+654006358824587000	Why not Zoidberg? @midnight #BetterDebateQuestions	0		1	
+653775535429038000	What exactly do you plan to do about joke theft on Twitter? @midnight #BetterDebateQuestions	2		1	
+653796381425991000	"Instead of responding ""I'm not a scientist"" to questions about science, could you actually ask a scientist? #BetterDebateQuestions @midnight"	1		2	6
+654016452207489000	"Finally, we are going to go with the hardest question of the night ""What is your favorite color and why?"" #BetterDebateQuestions @midnight"	0		1	
+654002137660309000	#BetterDebateQuestions @midnight Do you own anything other than a pant suit?	0		1	
+654031292464525000	Who pissed in your Corn Flakes?#BetterDebateQuestions @midnight	0		1	
+654027963441262000	@midnight #BetterDebateQuestions Joel Hodgson or Mike Nelson?	0		1	
+654038619246620000	2 Part question for any of the candidates. Do you guys validate parking? and wheres the nearest strip club #BetterDebateQuestions @midnight	0		1	
+654001503120658000	How much cream was in your pants when you found out McDonalds serving breakfast all day? #BetterDebateQuestions @midnight	0		1	
+653797420325826000	"An NRA lobbyist falls in the forest, which one of you will kiss his booboo first #BetterDebateQuestions @midnight"	1		3	
+653996350888013000	So are you the type of person who accidentally drops an F bomb in Presidential Presence &amp; laughs? #BetterDebateQuestions @midnight	0		1	
+654015072478588000	@midnight How many in the stink? #BetterDebateQuestions	0		1	
+654008930889277000	What are your policies on back rubs? #BetterDebateQuestions @midnight	0		1	
+654016405050789000	What's your stance on the toilet?  #BetterDebateQuestions @midnight @hardwick @nerdist	0		1	
+654015322723237000	"Why wouldn't a ""former member"" of the Clinton Global Initiative be an unbiased moderator?! #BetterDebateQuestions @midnight"	0		1	
+654003098608889000	Hillary would you do Bernie Sanders? Bernie vice versa. #BetterDebateQuestions @midnight	0		1	
+653995810246397000	Cocks or Glocks? #BetterDebateQuestions @midnight	0		1	
+653994852712062000	Do you believe in true love? @midnight #BetterDebateQuestions	0		1	
+654016611930664000	"Seriously, Mr. Sanders? No, seriously? #BetterDebateQuestions @midnight"	0		1	
+705853848062205000	The Thin Red Flatline. #FloridaAMovie @midnight	0		1	
+705842423826526000	My Left Turn Signal #FloridaAMovie @midnight	0		1	
+705836635351617000	Pink Flamingos  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705849893718528000	Arsenic and OLD Lace  #FloridaAMovie  @midnight	0		1	
+705855553558462000	Ignorance &amp; Insensibility #FloridaAMovie @midnight	0		1	
+705841732798324000	@Midnight To Live and Die in Del Boca Vista #FloridaAMovie	0		1	
+705832875661385000	@midnight Grampa Gus Has Fallen #FloridaAMovie https://t.co/Q5KTBVMyaB	0		1	
+705834976001056000	The taking of Cabana 1 2 3 #FloridaAMovie @midnight	0		1	
+705860245776564000	Florida and Dumber #FloridaAMovie @midnight	0		1	
+705847514952372000	@midnight The Judge Said I am a Clear and Present Fanger to Myself and Others #FloridaAMovie	0		1	
+705858964185960000	Steve Jobless #FloridaAMovie @midnight	0		1	
+705841063035015000	@midnight Trucker Hat On A Hot Tin Roof #FloridaAMovie	0		1	
+705835134659006000	Before Sunset  #FloridaAMovie  @midnight	0		1	
+705831684277534000	Straight Outta Swampton #FloridaAMovie @midnight	0		1	
+705830938815676000	The Whore of Orlando #FloridaAMovie @midnight	0		1	
+705838630699442000	Three Men and Some Rabies #FloridaAMovie  @midnight	0		1	
+705852675615657000	The Early Dinner Club #FloridaAMovie @midnight	0		1	
+705843900330713000	Throw Miami From The Train #FloridaAMovie @midnight	0		1	
+705834819436077000	A Clockwork Orange  #FloridaAMovie  @midnight	0		1	
+705864143606140000	"The American ""President"" #FloridaAMovie @midnight"	0		1	
+705842879432884000	#FloridaAMovie The Book Of Elian Gonzalez @midnight	0		1	
+705863139640942000	Star Trek: Tattoed Fist Contact with my jaw #FloridaAmovie @midnight	0		1	
+705835472883425000	Grumpy Old Men  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705831005689483000	The [Beer for] Breakfast Club #FloridaAMovie @midnight	0		1	
+705838337748172000	Jet Jacksonville Jaguar #FloridaAMovie  @midnight	0		1	
+705844373376774000	Miracle Ear on 34th St #FloridaAMovie @midnight	0		1	
+705841925539160000	The Divergent Series: Incontinent  #FloridaAMovie @midnight	0		1	
+705853980400754000	How to Be Sinkhole #FloridaAMovie @midnight	0		1	
+705866765897637000	Into the retirement village #FloridaAMovie @midnight	0		1	
+705852927768834000	The Bridgework of Madison County #FloridaAMovie @midnight	0		1	
+705834571988914000	Sizzler's List #FloridaAMovie @midnight	0		1	
+705868697240350000	@midnight the Big Short-term Memory Loss #FloridaAMovie	0		1	
+705837983639871000	Florida Man or (the very much expected vice of ignorance)  #FloridaAMovie @midnight	0		1	
+705844366674432000	Old Fockers  #FloridaAMovie @midnight	0		1	
+705835496195399000	The Small Danish and a Decaf Girl #FloridaAMovie @midnight	0		1	
+705846997840896000	@midnight Uncle Buck is Sleeping with My Mom #FloridaAMovie	0		1	
+705866768917663000	Cloudy With a Chance of Saggy Old Balls #FloridaAMovie @midnight	0		1	
+705851368028803000	@midnight #FloridaAMovie The Hospital Transporter	0		1	
+705850446796234000	THE CUBAN SYNDROME  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705859050144186000	It's a Wonderful Life Everywhere Else. #FloridaAMovie @midnight	0		1	
+705831496293036000	The Butterfly Ballot Effect #FloridaAMovie @midnight	0		1	
+705857951991377000	A History of Fast Food Violence @midnight #FloridaAMovie	0		1	
+705839367777026000	Attack on Tampa Bay #FloridaAMovie  @midnight	0		1	
+705845538004946000	Citizen Cane #FloridaAMovie @midnight	0		1	
+705836040230150000	SWAMP THING  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705849627367579000	Spike Lee's Do the WRONG Thing: Election 2000  #FloridaAMovie  @midnight	0		1	
+705855647913533000	"So, a lot of @midnight's hashtags this week involved puns. (#PoliticalSuperheroes, #GrittySeuss,  #FloridaAMovie) But I'm not punny. #371TV"	0		1	
+705855706675675000	Harry Potter and the Illegal Distribution of Bath Salts #FloridaAMovie @midnight	0		1	
+705840702341648000	@midnight  Hanging CHUD #FloridaAMovie	0		1	
+705850712304062000	"What Happens In Disney, Stays In Disney #FloridaAMovie @midnight"	0		1	
+705846497468944000	Whiskey Tango Foxtrot and BATSHIT CRAZY  #FloridaAMovie  @midnight	0		1	
+705849789112524000	All the Illegitimate President's Men. #FloridaAMovie @midnight	0		1	
+705836298586746000	Tango&amp;Cash 4 Gold  #FloridaAMovie  @midnight	0		1	
+705852896512909000	@midnight #FloridaAMovie The Hateful Eighty-eights	0		1	
+705849291198373000	THE DARK CRYSTAL METH  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705841384612368000	@midnight  Late Afternoon of the Living Dead #FloridaAMovie	0		1	
+705850569257304000	PEACOCK  #FloridaAMovie  @midnight	0		1	
+705852958924259000	Stand By Me: The Marco Rubio Story #FloridaAMovie @midnight	0		1	
+705837811774021000	Bang StepBros. #FloridaAMovie @midnight	0		1	
+705853093808902000	Glades Runner #FloridaAMovie @midnight	0		1	
+705838649351532000	#FloridaAMovie Beer and Airboating In The Everglades @midnight	0		1	
+705835821719490000	What's Eating Gilbert ORANGE?  #FloridaAMovie  @midnight	0		1	
+705834913270894000	@midnight @barryrothbart @chrisdelia @MeganNeuringer Tita-nic Carter #FloridaAMovie	0		1	
+705829914352721000	@midnight How The Key West Was Won #FloridaAMovie	0		1	
+705831757355085000	"Raiders of the Lost Bath Salts', 'Total Recount': @midnight challenges internet to #FloridaAMovie "	0		1	
+705866281174573000	The 80 Year Old Virgin #FloridaAMovie @midnight	0		1	
+705835646850613000	CADDYSHACK  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705829610643132000	@midnight A Miami Dolphins Tale #FloridaAMovie	0		1	
+705835302385000000	A Place in the Sun  #FloridaAMovie  @midnight	0		1	
+705848137403994000	"The Lion, The Witch, and the Guy That Screwed a Donkey  #FloridaAMovie @midnight"	0		1	
+705865108963069000	A Broken Mind: The Gary Busey Story #FloridaAMovie @midnight	0		1	
+705863671117910000	The Accidental Domestic Terrorist #FloridaAMovie @midnight	0		1	
+705843182685315000	Martha Does Boca Raton #FloridaAMovie @midnight	0		1	
+705847125012193000	Waffle House of 1000 Corpses #FloridaAMovie @midnight	0		1	
+705843480199704000	@midnight The Unbearable Unlikeness of Being Rick Scott #FloridaAMovie	0		1	
+705830502540906000	All My Friends are Dead #FloridaAMovie @midnight	0		1	
+705856107680546000	COCOON  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705845311131017000	The Unbearable Lightness of Being Almost Dead #FloridaAMovie @midnight	0		1	
+705849616751681000	V for Viagra #FloridaAMovie @midnight	0		1	
+705845990457106000	@midnight #FloridaAMovie South America: Bigger Longer and Uncut	0		1	
+705851655758155000	@midnight The Orange Mile  #FloridaAMovie	0		1	
+705841402756751000	"@midnight #FloridaAMovie Death becomes her, and her, and him, and her..."	0		2	8
+705841548445921000	@midnight #FloridaAMovie Floridiotcracy	0		1	
+705836342077292000	@midnight #FloridaAMovie Rubio In Paradise	0		1	
+705855903598288000	Fifty Shades of Gray HAIR  #FloridaAMovie  @midnight	0		1	
+705834995831709000	TANGERINE  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705851313234423000	I Heartattack the Huckabees #FloridaAMovie @midnight	0		1	
+705853503474827000	The Wizard of Osteoporosis  #FloridaAMovie @midnight	0		1	
+705846709952258000	LET'S BE COPS SHAQUILLE O'NEAL!  #FloridaAMovie @midnight	0		1	
+705838388901842000	"@midnight Mother, Juggalos, and Speed #FloridaAMovie #PointsMe"	0		1	
+705851820711809000	The People vs. O.J. Simpson  #FloridaAMovie  @midnight	0		1	
+705838334891790000	We Bought A Zoo (which was actually just an incarcerated drug lords mansion) #FloridaAMovie @midnight	0		1	
+705861339177025000	Harry Potter and the Goblet of Fire Ants #FloridaAMovie @midnight	0		1	
+705840119295700000	Bill and Ted's Excellent Colonoscopy Results #FloridaAMovie @midnight	0		1	
+705839454473297000	"The Danish Girl, But Just a Smidge #FloridaAMovie @midnight"	0		1	
+705841230970691000	Chronicles of Florida: the Lion the Witch &amp; the Wardrobe Malfunction #FloridaAMovie @midnight	0		1	
+705833884739616000	Four Funerals and a Bedwetting #FloridaAMovie @midnight	0		1	
+705863837141082000	Robocop got caught with meth #FloridaAmovie @midnight	0		1	
+705860772501417000	Alvin and the Cockroaches #FloridaAMovie @midnight	0		1	
+705859943119851000	Some Like It Hot  But That Humidity? Oy. #FloridaAMovie @midnight	0		1	
+705860529626025000	Harper Valley PGA  #FloridaAMovie @midnight	0		1	
+705849642370650000	@midnight How to lose a guy in the everglades #Floridaamovie	0		1	
+705855546033725000	Just catching up on last night's @midnight so this is a bit late #FloridaAMovie 	0		1	
+705858796812427000	Straight Outta' Hip Surgery #FloridaAMovie @midnight	0		1	
+705854875867992000	"Honey, I Killed the Kids #FloridaAMovie @midnight "	0		1	
+705840674474696000	Jurassic State #FloridaAMovie @midnight	0		1	
+705852759229210000	Eighty-six Candles #FloridaAMovie @midnight	0		1	
+705849538632810000	Night of the Assisted Living Dead #FloridaAMovie @midnight	0		1	
+705856393249759000	Weekend at Jeb Bush's #FloridaAMovie  @midnight	0		2	7
+705832599437099000	#FloridaAMovie Chairman Of The Shuffleboard Club @midnight	0		1	
+705837657297846000	Hotel for Specifically Little Chihuahuas #FloridaAMovie @midnight	0		1	
+705831326025383000	The Departed #FloridaAMovie @midnight	0		1	
+705860186955599000	@midnight cc @melissamccarthy #FloridaAMovie	0		1	
+705835509050773000	"State of 1,000 Corpses #FloridaAMovie @midnight"	0		1	
+705858435653435000	The Best Exotic Del Boca Vista #FloridaAMovie @midnight	0		1	
+705830144779354000	@midnight Senior Citizen Kane #FloridaAMovie	0		1	
+705858504251338000	Night of the Nearly Dead #FloridaAMovie @midnight	0		1	
+705861298257530000	The Hateful State. #FloridaAMovie @midnight	0		1	
+705846245487681000	WATERWORLD  #FloridaAMovie  @midnight  #POINTSME	0		1	
+705830285829500000	Single White Widow #FloridaAMovie @midnight	0		1	
+705866542865522000	It's a wonderful life wearing socks with sandals.  #FloridaAMovie @midnight	0		1	
+705852887717560000	"The Usual Suspect, The George Zimmerman Story. #FloridaAMovie @midnight"	0		1	
+705865380728852000	Walt Disney World of WarCraft #FloridaAMovie @midnight	0		1	
+705856593032777000	Country For Only Old Men #FloridaAMovie @midnight	0		1	
+705617459248816000	Nursing Home Alone #FloridaAMovie @midnight	1		1	
+705648543617327000	A Walker To Remember #FloridaAMovie @midnight	1		1	
+705612874111057000	Dr. No Air Conditioning @midnight #FloridaAMovie	1		1	
+705615974091911000	Cool Panhandle Luke #FloridaAMovie @midnight	1		1	
+705612853126926000	Sophie's Choice Waterfront Condo @midnight #FloridaAMovie	2		1	
+705626163352211000	It's A Wonderful LifeAlert #FloridaAMovie @midnight	1		1	
+705615416085843000	The Land Before Timeshares #FloridaAMovie @midnight	1		1	
+705611211929317000	No Recount for Old Men #FloridaAMovie @midnight	1		1	
+705622138330288000	Golden Girls Gone Wild #FloridaAMovie @midnight	1		1	
+705623275452301000	The Shawshank Early Bird Coupon Redemption   #FloridaAMovie @midnight	1		1	
+702984030694744000	The Viagran #GOPMovies @midnight	0		1	
+702969672879239000	#gopmovies @midnight The Man Who Shot Liberty.	0		1	
+702981412178112000	Born on the 4th of July... in Canada @midnight #GOPMovies	0		1	
+702977313781239000	@midnight #GOPMovies GOP Wars: A Lost Hope	0		1	
+702970343464562000	There's something about Marco #GOPMovies @midnight	0		1	
+702966610190016000	Failure to Launch (starring Jeb) #GOPmovies @midnight	0		1	
+702978198045376000	@midnight #GOPMovies Crouching Hairpiece Hidden Agenda	0		1	
+702979628831387000	@midnight #GOPMovies The Trumpit: The battle of five presidents	0		1	
+702969164932239000	#gopmovies @midnight The Rocky Horror Culture Show	0		1	
+702980325039714000	"@midnight #GOPMovies Dude, Where Are My Votes?"	0		1	
+702984062932111000	Harry Potter and the Search for Trump's Barber @midnight #GOPMovies	0		1	
+702963396837302000	ALIENS  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702981517761507000	@midnight #GOPMovies Judge Dread	0		1	
+702967192300552000	"@midnight #GOPmovies The not-so-good, the really bad, and the orange-ugly."	0		3	3
+702977018661457000	@midnight Republican Congress Votes To Block Clean Water for Elephants in Flint #GOPMovies	0		1	
+702965808855703000	TRUE LIES  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702980780511789000	@midnight #GOPMovies  Bob &amp; Ted &amp; Carol &amp; Alice &amp; Kim Davis	0		1	
+702982923809636000	"I know it's late, but my brilliance had to be shared: Fried Green Haters @midnight #GOPMovies"	0		1	
+702971274981675000	Logical People: The Last Stand #GOPMovies @midnight	0		1	
+702984005457588000	@midnight #GOPMovies  What Ever Happened to Baby Jane's Healthcare?	0		1	
+702984088370565000	V is for Viagra #GOPMovies @midnight	0		1	
+702966371366232000	@midnight #gopmovies The White Stuff	0		1	
+702982158122487000	Dunces with Wives #GOPMovies @midnight	0		1	
+702983344972140000	Overboard Politics #GOPMovies @midnight	0		1	
+702983473141665000	Cruzing #GOPMovies @midnight	0		2	3
+702965662453370000	The Dark Money Returns #GOPmovies @midnight	0		1	
+702964228391571000	Trump Flew Over the Cuckoo's Nest #GOPMovies @midnight	0		2	3
+702982377341988000	Whiter Girls #GOPMovies @midnight	0		1	
+702963165664059000	OUT OF AFRICA: The Barack Husein Obama Story  #GOPMOVIES  @midnight	0		1	
+702964650820968000	One Flew Over the Cuckoo's Nest of Congress  #GOPMOVIES  @midnight	0		1	
+702982964552962000	What to expect when you don't want to be expecting in Kentucky @midnight #GOPMovies #GOPmovietitles	0		1	
+702968093757317000	@midnight All the White Moves #GOPMovies	0		1	
+702984158256238000	Captain Make America Great Again #GOPMovies @midnight	0		1	
+702977353119457000	"The Good, The Bad and The GOP. @midnight  #GOPMovies"	0		1	
+702963928029077000	Raging Elephant #GOPMovies @midnight	0		2	3
+702970730086989000	@midnight #GOPMovies Forrest Trump	0		1	
+702962913154306000	Billion Dollar Baby  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702965354507714000	Risky Business  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702970888061329000	Bland Guys from Outer Space #GOPMovies @midnight	0		1	
+702962902958018000	"Dude, where's my gardener? #GOPMovies @midnight"	0		1	
+702962368377196000	The Undocumented Help  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702980318806962000	#GOPMovies Victor Victoria  @midnight 	0		1	
+702976069582729000	"#GopMovies @realDonaldTrump starring in the remake of "" LIAR LIAR LIAR LIAR LIAR LIAR LIAR LIAR LIAR LIAR @midnight "	0		1	
+702982550730489000	@midnight #GOPMovies The Importance of NOT Being Ernest	0		2	3
+702963817349828000	Apocalypse Now  #GOPMOVIES  @midnight	0		1	
+702968775193305000	#gopmovies @midnight Kentucky Fried Country	0		1	
+702962686594830000	HOME ALONE after family deported.  #GOPMOVIES  @midnight	0		1	
+702964446948401000	12 Angry Men : The Contenders  #GOPMOVIES  @midnight	0		1	
+702971711457771000	Weekend at Bernie's #GOPMovies @midnight	0		2	3
+702968340352905000	None Flew Over the Cuokoo's Nest  #GOPMovies @midnight	0		1	
+702964002780004000	NIXON  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702983038100066000	The White and the Furious @midnight #GOPMovies	0		1	
+702963620892823000	RAGING BULL   #GOPMOVIES  @midnight  #POINTSME	0		1	
+702983309182111000	"Great Expectations, Mediocre Results  @midnight #GOPMovies"	0		1	
+702967052676386000	@midnight #GOPmovies 16 Angry Men (and one woman)	0		1	
+702965554412437000	Blame It On RINO  #GOPMOVIES  @midnight	0		1	
+702983939447615000	.#GOPMovies .@midnight The Hateful  Candidates Who Whittled Down to 5	0		1	
+702979333456011000	@midnight #GOPMovies Ben and Ted's Bogus Journey	0		1	
+702968418392117000	@midnight #GOPmovies The Man with No Brains	0		1	
+702976261379878000	@midnight Speed 2: Control Ted Cruz #GOPMovies	0		1	
+702964212549754000	THE GOONIES  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702962168778645000	RED DAWN  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702978715165315000	@midnight #GOPMovies Minority Deport	0		2	6
+702974239867932000	#GOPMovies Sophie's only Choice - Carry child to full term  @midnight	0		1	
+702968683031719000	Fear The Others #GOPmovies #GOPmovietitles @midnight 	0		1	
+702965153202053000	Undocumented Children of a Lesser God  #GOPMOVIES  @midnight	0		1	
+702982219263057000	@midnight #GOPMovies Trump: The Dark World	0		1	
+702962517056823000	Illegally Yours  #GOPMOVIES  @midnight	0		1	
+702967464649293000	@midnight #GOPmovies Marco and the Giant Peach.	0		1	
+702980283604176000	@midnight #GOPMovies Harold and Kumar Return to Guantanamo Bay	0		1	
+702971310150803000	Eternal Sunshine of the Thoughtless Mind  #GOPMovies @midnight	0		2	3
+702972687954608000	@midnight Fantastic Bore #GOPMovies	0		1	
+702973990466404000	@midnight The Wedding Singer Who Only Sings At Traditional Weddings #GOPMovies	0		1	
+702977167496388000	Carbon Emission Impossible 3: Coal Nation @midnight #gopmovies	0		1	
+702984213650223000	The Bad News Hairs @midnight #GOPMovies	0		1	
+702964943965044000	Dr. Carson and Mr. Trump  #GOPMOVIES  @midnight  #POINTSME	0		1	
+702715338132074000	You Got Conserved #gopmovies @midnight	1		1	
+702731574433845000	Whole Country for Old White Men #GOPMovies @midnight	1		1	
+702723661246017000	"Prove You're a Citizen, Kane #GOPMovies @midnight"	1		2	3
+702714915170091000	The Passion of the Cruz #GOPMovies @midnight	1		2	3
+702718696805036000	@midnight #GOPMovies  Kill Bill of Rights	1		2	3
+702722921039532000	Django UnCheney'd #GOPMovies @midnight	1		2	3
+702716935289622000	The Birther of a Nation #GOPMovies @midnight	1		1	
+702717608999546000	Chariots of You're Fired!   #GOPMovies @midnight	1		1	
+702713253240172000	Incredibly Loud and Extremely Close-minded #GOPMovies @midnight	1		2	3
+702715833815076000	Coultergeist #GOPMovies @midnight	2		1	
+676853993901940000	@midnight #GOPSongs #PointsMe anything by Ted Nugent	0		1	
+676853464933076000	Wall Me Maybe #GOPSongs @midnight	0		2	3
+676637531241361000	"#GOPSongs #PointsMe @midnight At first I was afraid, I was petrified, kept thinkin I could build a wall to keep the whites inside"	1		1	
+676856118040219000	Come Buy Elections With Me #GOPSongs @midnight	0		1	
+676855019740733000	"My Mind's telling me Nobama, but my body's telling me yes... #GOPSongs  @midnight"	0		1	
+676850364302266000	"Like a Lobbyist  #GOPSongs @midnight  ""Favors for the very first time ... THIS WEEK"""	0		3	6
+676855169909436000	Anti-immigrant song #GOPSongs @midnight	0		1	
+676784476870082000	We didn't start the fire! It was always burning since the world's been turning 6000 years ago #GOPSongs @midnight #PointsMe	1		2	6
+676620432749887000	She Blinded Me With Creationism #GOPSongs @midnight #PointsMe	1		1	
+676847462636589000	@midnight Blurred Lines #GOPSongs #PointsMe https://t.co/eV4mEWbrSz	0		1	
+676849744640102000	Loaded Arms wide open #GOPSongs  @midnight	0		1	
+676854273137876000	@midnight #PointsMe #GOPSongs all i want in congress is majority(all i want for Christmas)	0		1	
+676853397513830000	@midnight #gopsongs #PointsMe I don't like black people I don't go to other countries: an album by earl sweatshirt	0		1	
+676849999041400000	#GOPSongs @midnight Trump on it by the Capitol Hill Gang #PointsMe	0		1	
+676854315735261000	#GOPSongs  Money For Nothing (while we're in Dire Straits)  #PointsMe @midnight	0		1	
+676849559494987000	Gays are on the Highway to Hell #GOPSongs @midnight	0		1	
+676855999928655000	@midnight One is the Loveliest Percent #GOPSongs	0		1	
+676621136877084000	Ivory and Ivory #GOPSongs @midnight	1		1	
+676856182779285000	#GOPSongs @midnight Obama don't like you and he likes everyone #PointsMe	0		1	
+676621769235496000	Comfortably Dumb #GOPSongs @midnight	1		1	
+676620368547713000	You're Still The One Percent  #GOPSongs @midnight	1		1	
+676855647271591000	"#GOPSongs I wonder why @midnight DIDN'T do #MuslimSongs? (Oh, yeah, that's right!) #SouthPark #hypocrisy "	0		1	
+676851593636024000	"@midnight ""I can't watch this race 'cus I vote blue"" #GOPSongs #PointsMe"	0		1	
+676852965659951000	"It's the end of the world as we know it, but I clutch to outdated policies and bury my head in the saaaand ... #GOPSongs @midnight"	0		2	3
+676848514740174000	My Name is (Muslim Shady) #GOPSongs  @midnight	0		1	
+676850590165635000	@midnight #GOPSongs #PointsMe silent night-&gt;violent whites	0		1	
+676621724578930000	What Does Fox News Say? #GOPSongs @midnight	1		2	3
+676851611226935000	Paradise By the Airport Bathroom Light #GOPSongs @midnight	0		1	
+676622415657607000	Just Another Prick and a Wall #GOPSongs @midnight	2		3	6
+676637394532245000	#GOPSongs Gun Control to Major Tom @midnight #PointsMe	1		2	6
+676849242443386000	"@midnight ""I'm dreaming of a white Christmas"" #GOPSongs #PointsMe"	0		1	
+676620942739566000	Bush It (Bush it real good) #GOPSongs @midnight	1		2	1
+676856344339718000	"@midnight ""Camp Town Racists"" #GOPSongs #PointsMe"	0		1	
+676855392798908000	Benghazi No. 9 #GOPSongs @midnight	0		1	
+					
+713053753633542000	#IfIWerePresident @ChickfilA would be open on Sundays @midnight	0		1	
+713055865490771000	@midnight Canadians can run right ? #IfIWerePresident	0		1	
+713041764005855000	"#IfIWerePresident  I would make orange the new white, not black-Donny Drumpf @midnight"	0		1	
+713044695555948000	#IfIWerePresident every State of the Union address would end with a mic drop @midnight	0		1	
+713047573678804000	"I said this: @NameGirl  @midnight ""...Compile tweets by cause and we'll make big changes! #IfIWerePresident   "	0		1	
+713043270381735000	#IfIWerePresident I would invest in our education and health system instead of weapons and war @midnight	0		1	
+713049127509168000	"#IfIwerePresident Harleys would be free Cages would be illegal, and Gemma would be my bitch @midnight #HashTagWars"	0		1	
+713046818507137000	@midnight #IfIWerePresident I'd make Rob Ford look sane.	0		1	
+713045455202979000	#IfIWerePresident the world would get to meet the cutest first dog ever!! @midnight 	0		1	
+713040425888514000	#IfIWerePresident I'd be impeached immediately for being Canadian. @midnight	0		1	
+713045695645818000	@midnight #IfIWerePresident @hardwick would be Press Secretary and all briefings would be in #HashtagWars format	0		1	
+713043080803442000	#IfIWerePresident Bohemian Rhapsody would be the national anthem @midnight	0		1	
+713054603848212000	#IfIWerePresident Trump might not look so bad... @midnight	0		1	
+713044150799695000	@midnight #IfIWerePresident.  If I were President . . . #I'dMoveToCanada  I'd move to Canada!  ;)	0		1	
+713048706497581000	@midnight I would send Kanye to Iraq so he can see that being a pop star is not as hard as being in the army #IfIwerepresident	0		1	
+713045450706825000	"#IfIWerePresident ...I would make sure that the ACA covered dental-, vision-, and mental health, as well. @Midnight #HashtagWars"	0		1	
+713052035336183000	#IfIWerePresident Politicians would selected in the Thunderdome. @midnight	0		1	
+713045237627793000	@midnight #IfIWerePresident no intern would be safe.	0		1	
+713046556488826000	"I'd pander during the election, I'd form a cabinet of douches, then I'd give in to special interests. #ifIWerePresident @midnight"	0		1	
+713055266506313000	#IfIWerePresident I would just sleep all day! @midnight	0		1	
+713051870881779000	#IfIWerePresident 1st Lady Auditions  .@midnight 	0		1	
+713050819872985000	@midnight Donald Trump would be deported #IfIWerePresident	0		1	
+713049546880892000	@midnight #IfIWerePresident Florida would not be allowed to vote for President.....EVER!	0		1	
+713039643441291000	"#IfIWerePresident ""Press 1 to speak to a live person."" Mandatory. $10K fine for non-compliance.  @midnight"	0		1	
+712856868041932000	#IfIWerePresident the day after Flag Day will be Freak Flag Day @midnight	1		1	
+712845653706149000	#IfIWerePresident my Cabinet would just be cats. @midnight	1		1	
+712861808416133000	"Historically, I'd oversleep and eventually get fired. @midnight #IfIWerePresident"	1		1	
+712872953344618000	#IfIWerePresident I'd pardon Dad so we could be together again... @midnight	1		1	
+712844271104167000	#IfIWerePresident my estranged children would finally know where I was @midnight	1		1	
+712889094465003000	"I'd be all: ""What the hell am I doing in this one bedroom apartment in Little Armenia?"""	1		2	3
+712870227869085000	#IfIWerePresident I would make all my policy decisions by asking one question: What would Gary Busey do? @midnight	1		2	3
+712844267270574000	POINTS for everyone not just the 1% #IfIWerePresident @midnight	1		1	
+712865857475633000	#IfIWerePresident That would mean a lot of people made some very bad decisions. @midnight	2		3	1
+712846049107394000	#IfIWerePresident All mass transportation would have people with kids sections separate from those that like to have nice things. @midnight	1		1	
+707709697638305000	All legal currency will be converted to casino chips with Trumps face stamped on it. #IfTrumpWins @midnight	0		1	
+707710985004564000	#IfTrumpWins Putin will receive a Nobel peace prize. @midnight	0		1	
+707710089000411000	Canada is going to build a wall to keep out Americans out. #IfTrumpWins @midnight	0		2	6
+707709192753319000	#IfTrumpWins Art of the Deal will replace the Constitution @midnight 	0		2	8
+707714898738999000	Ask not what you can do for your country. But what Canada can do for you. #IfTrumpWins @midnight	0		1	
+707712130460590000	"@midnight @tikibetty ""Canada builds a wall #IfTrumpWins "" ? I'd like to be the one to say ""South Park Did It! South Park Did It!"" =P hee hee"	0		1	
+707723135399956000	#IfTrumpWins I'm taking @crimmins advice and putting all my money on the Mexican pole vaulting team. @midnight	0		2	3
+707719782875811000	#IfTrumpWins Vladimir Putin will laugh for the first time. @midnight	0		1	
+707711745113116000	#IfTrumpWins he will give Flint a huge discount for using Trump water @midnight	0		1	
+707714450711687000	#IfTrumpWins maintained lawns &amp; gardens will be a thing of the past. @midnight	0		1	
+707713365070716000	Pray...for...mojo. @midnight #IfTrumpWins	0		1	
+707718791812124000	"#iftrumpwins I'll take a four year ""gap year"" @midnight"	0		1	
+707715244076965000	Canada will build a wall #iftrumpwins @midnight	0		1	
+707716556151652000	@midnight #IfTrumpWins I will automatically believe in unicorns and dragons	0		1	
+707709045730254000	#IfTrumpWins avengers assemble! @midnight	0		1	
+707720809599504000	#IfTrumpWins he will probably take all presidential calls from his bankrupt hotel in New York @midnight	0		1	
+707714018643869000	#IfTrumpWins there won't be any fruit because there won't be anyone around to pick it. @midnight	0		1	
+707705339991494000	#IfTrumpWins Dick Cheney will have won his wager with Satan &amp; ascend throne as the new Prince of Darkness .@midnight 	0		1	
+707709364761526000	The country will become the prequel to Idiocracy. #IfTrumpWins @midnight	0		1	
+707710164497993000	@midnight Mandatory education at Trump College #IfTrumpWins	0		1	
+707714403643297000	"Thanks, @midnight for including me in your TOP 10 #IfTrumpWins "	0		1	
+707707378813292000	#IfTrumpWins America will be breaking the International Chemical Warfare Treaty.  It's called Trump Cologne @midnight	0		1	
+707714437894033000	@midnight #IfTrumpWins Mexico will pay for a wall the surrounds Donald Trump.	0		1	
+707716925866909000	#IfTrumpWins America will drown in a flood thanks to the wall built around the country. @midnight	0		1	
+707712434744590000	#IfTrumpWins people with tiny hands won't ever have to justify their size @midnight	0		2	7
+707722612567191000	@midnight #IfTrumpWins thousands of people with torches forming a giant T slowly rotating as copies of the constitution are burned	0		1	
+707716126902452000	There will be no more Truffle Butter for the Lemon Parties @midnight #IfTrumpWins	0		1	
+707710597476052000	#IfTrumpWins Bear's dream of staying in the Lincoln Bedroom @WhiteHouse may come true. #Armageddon #Election2016 @midnight	0		1	
+707722028275638000	"@midnight #IfTrumpWins Hitler, Mussolini and Saddam will finally have a 4th for their Bridge game."	0		1	
+707711509095297000	#IfTrumpWins Nickleback will be the Vice President @midnight	0		1	
+707423575720992000	#IfTrumpWins Canada builds a wall @midnight	1		1	
+707426757196972000	#IfTrumpWins there will be tiny fingers on the nuclear button. @midnight	1		2	7
+707431606076772000	"#IfTrumpWins glove sizes will start at Presidential and move up to Medium, then Regular @midnight"	1		3	7
+707431647604510000	#IfTrumpWins all orange crayons will be renamed flesh tone. @midnight	2		3	7
+707432010357338000	#IfTrumpWins father/daughter dances will take on a whole new meaning. @midnight	1		2	7
+707426112821788000	#IfTrumpWins I hope Wall-E's journey inspires us to come back to Earth someday @midnight	1		1	
+707451690824372000	#IfTrumpWins the stay puft marshmallow man will  wreak havoc in every major city @midnight	1		1	
+707453857731895000	#IfTrumpWins we will have hell toupee. @midnight	1		2	3
+707424159983251000	#IfTrumpWins the Mayans were only 4 years off. @midnight	1		2	3
+707424693884686000	#IfTrumpWins I'm getting Marty McFly to try to steal the sports almanac back from him @midnight	1		1	1
+665257504037806000	Donner Party Yelp review...not great #InternetThePast @midnight	0		1	
+665277934807089000	"#InternetThePast @midnight Mesopotamians be like, ""First."""	0		1	
+665248258025918000	1 holocaust you won't believe happened &lt;clickhere&gt; #InternetThePast @midnight	0		1	
+665260682430971000	@midnight The Fifth of November was an inside job! #InternetThePast	0		1	
+665266311660875000	@midnight @hardwick The Troll'd War #InternetThePast #PointsMe	0		1	
+665280430942195000	Foursquare and 7 memes ago @midnight  #InternetThePast	0		1	
+665259201032163000	Gettysburg IP Address @midnight #InternetThePast #PointsMe	0		1	
+665033402895040000	Take the Quiz: Which Henry VIII Wife Are You? #InternetThePast @midnight	1		2	3
+665028010479759000	Periscoping The Titanic #InternetThePast @midnight #pointsme	1		1	
+665272888375640000	The Cuban Missile Facebook post (the US did not like this) #InternetThePast @midnight	0		2	3
+665263416861442000	Snopes Monkey Trial #InternetThePast @midnight #PointsMe	0		1	
+665266669682606000	Little Boy is dropping this bomb new mix tape on Hiroshima tonight. World star. #InternetThePast @midnight	0		1	
+665276671252041000	@midnight  Clear History  #InternetThePast	0		2	3
+665275655962030000	"#InternetThePast @midnight Michael Jackson sees how people make fun of the @Drake video and is like ""Fuck it. I ain't revolutionizing shit."""	0		1	
+665256404442181000	One Does Not Simply... ... Invade Poland. #InternetThePast #PointsMe @midnight	0		2	3
+665280843158450000	I regret I only have one email address to give for my country #InternetThePast @midnight	0		1	
+665256257582858000	Moses parted the Reddit Sea #InternetThePast @midnight	0		1	
+665256896169975000	I regret I have but 3 lives to give for my country...4 if I get a guild to help quest for the regeneration cloak. #InternetThePast @midnight	0		1	
+665254224435871000	@midnight #InternetThePast shot in the back by Buford Tannon over a matter of an 80 GB iPod.	0		1	
+665255758142054000	Cleopatra-hot or not? #InternetThePast @midnight	0		2	3
+665257011572011000	4 score and 7 memes ago... #InternetThePast @midnight	0		1	
+665260729562370000	Gettysburg email Address #InternetThePast @midnight #PointsMe	0		2	3
+665247148888322000	"When Troy fell from a Trojan horse, virus  #InternetThePast @midnight"	0		2	3
+665277749339156000	#InternetThePast @midnight John Belushi is a vine star and doesn't want to take the pay cut to go on @nbcsnl	0		1	
+665249466455339000	#InternetThePast The Valentines Day Meme Generator @chadopitz @midnight	0		1	
+665251336493989000	@midnight #InternetThePast The Reddit Headed League	0		1	
+665256146710720000	@midnight The Klondike Bitcoin Rush #InternetThePast	0		1	
+665255201788534000	Pizza Ratification of the Constitution #InternetThePast #PointsMe @midnight	0		1	
+665278798905155000	The Rebecca Black Death #InternetThePast @midnight  #friday13th	0		1	
+665267371226058000	The Great Lincoln-Deez Nuts Debate of 1858 #InternetThePast @midnight	0		1	
+665271109973970000	The Assassination of Archduke Franz Instagram #InternetThePast #PointsMe @midnight	0		1	
+665263897926995000	#InternetThePast   Amendment 34   @midnight  #PointsMe	0		1	
+665281104216088000	#InternetThePast @midnight The Zapruder Film is way better quality and there's hundreds of them from all different angles on @liveleak	0		1	
+665258079525597000	@midnight #InternetThePast Friend Request for fire.	0		1	
+665271533468696000	@midnight #InternetThePast The Soul Vine	0		1	
+665260347851325000	fourscore and seven vines ago #InternetThePast @midnight	0		1	
+665266908871188000	@midnight #InternetThePast  WWW II #PointsMe	0		1	
+665248677762605000	The Trojan Catfish #InternetThePast  @midnight	0		1	
+665251539867578000	Gettysburg Hotmail address  #InternetThePast @midnight #PointsMe	0		1	
+665246803995045000	Buzzfeed presents Ten Rights America is going to give you. #InternetThePast @midnight	0		2	1
+665254220803629000	@midnight #InternetThePast The Internet Browsing History Trail of Tears	0		1	
+665266851308544000	Boston Tea Party? Pics or it didn't happen. #InternetThePast @midnight	0		2	1
+665273972657786000	The Premiere of Singled Outbox... ;-) #InternetThePast #PointsMe @midnight	0		1	
+665258055815323000	land owning white males only   #InternetThePast @midnight	0		1	
+665272913700884000	@midnight #InternetThePast The Underground Network	0		1	
+665277342462275000	#InternetThePast @midnight JFK dick pics.	0		1	
+665260204104159000	The Boston http Party #InternetThePast @midnight	0		1	
+665030004460396000	The Subtweety of Versailles  #InternetThePast @midnight	1		2	3
+665258306550628000	#InternetThePast @midnight The Real Wives of Henry The VIII	0		2	3
+665276236634066000	Google Chrome wasn't built in a day #InternetThePast @midnight	0		1	
+665266970359668000	"@midnight  Gunfight at the ""meh"" corral #internetthepast #pointsme"	0		1	
+665267711388205000	The Third Pubic War #InternetThePast @midnight	0		1	
+665272372610527000	8 countries Germany just can't stand on Buzzfeed #InternetThePast @midnight	0		1	
+665278845751291000	9/1/1939 The Orcs invade Azeroth. #InternetThePast @midnight	0		1	
+665274768166260000	#InternetThePast @midnight Benjamin Franklin never discovers electricity because he's using it to watch @DudePerfect videos all day.	0		1	
+665276818199609000	The Spamming at Normandy @midnight #InternetThePast	0		1	
+665254637272854000	The Swimming of the English 4-Channel #InternetThePast #PointsMe @midnight	0		2	3
+665265512981651000	@midnight The Oregon Troll #InternetThePast	0		2	3
+665258021459628000	The Challenger Explosion Accepted #InternetThePast #PointsMe @midnight	0		1	
+665267273763041000	@midnight Instagraming the Alamo  #InternetThePast #PointsMe	0		1	
+665263181858639000	"@midnight #InternetThePast Henry the 5th ""#NetflixAndKillAllTheLawyers"""	0		1	
+665029351872720000	Yelp Review: Donner's ⭐️⬜️⬜️⬜⬜️ Attended a party here. Horrific service. Food was stringy and cold. #InternetThePast @midnight	1		1	
+665257615329374000	The Battle of Ermahgerd Beach #InternetThePast #PointsMe @midnight	0		2	3
+665259711348912000	#InternetThePast @midnight Henry Comstock Discovers the Motherboard Lode	0		1	
+665258922194968000	"Not only do I disagree with you, I think you're as bad as the baby that was born in Braunau am Inn the other day! #InternetThePast @midnight"	0		1	
+665279403723776000	@midnight Nyan Katrina #InternetThePast	0		1	
+665257344071106000	4Cave /mammoths/ #InternetThePast @midnight	0		1	
+665257770896252000	Yukon Gold Membership Rush #InternetThePast @midnight	0		1	
+665249553625444000	Women of #Britain. Tweet into the Internet.  #InternetThePast @midnight #PointsMe 	0		1	
+665276257559429000	Blitzkegal of the Luftwaffle #InternetThePast @midnight	0		1	
+665282566312759000	#InternetThePast @midnight Helen Of Troy is just some girl in @taylorswift13 's squad who's always trying to start Twitter wars.	0		2	3
+665266638804021000	@midnight The Boston Lemon Party. #InternetThePast	0		2	3
+665282189689405000	The Bitcoin rebellion @midnight #InternetThePast	0		2	3
+665253036256706000	@midnight Instagramophone #InternetThePast #PointsMe	0		2	3
+665255550939074000	Screaming Goethe #InternetThePast #PointsMe @midnight	0		1	
+665260957929635000	Give me liberty or give me likes #InternetThePast @midnight	0		2	6
+665261006768095000	"Mr Gorbachev, tear down this firewall! #InternetThePast @midnight #PointsMe"	0		2	6
+665077432286711000	"we hold these truths to be self evident, that http://reddit.com/r/all  men are created equal #pointsme #internetthepast @midnight"	1		2	3
+665273225090195000	When Biggie Shot Tu-rn CAPSLOCK OFF! #InternetThePast #PointsMe @midnight	0		1	
+665274137204514000	#InternetThePast @midnight Mark Zuckerberg never creates Facebook and everyone still uses Myspace and the world is exactly the same.	0		1	
+665261388705566000	The Secret Bombing of Lmaos #InternetThePast #PointsMe @midnight	0		1	
+665253192565964000	@midnight Dr Seuss wrote Nyancat in the Hat #InternetThePast	0		1	
+665266309492375000	#InternetThePast @midnight #PointsMe   Custer's Last Tripod	0		1	
+665250237506854000	@midnight JFK Assassins Creed #internetthepast #pointsme	0		1	
+665265148265795000	"Mercator (powered by Google) wants to update location ""Santa Maria"" for user ""Columbus"".   Allow?   #InternetThePast #PointsMe @midnight"	0		3	3
+665279826140401000	"@midnight #InternetThePast ""Give me 4G or give me death"" -Patrick Henry"	0		1	
+665252212784803000	@midnight #InternetThePast The Federalist Blog.	0		1	
+665275512911241000	The Gettysburg URL  @midnight #InternetThePast	0		1	
+665251781379665000	"The First Iracks, racks, racks War. #InternetThePast #PointsMe @midnight"	0		1	
+665272197284544000	President Kennedy photo shopped in the head @midnight #InternetThePast	0		1	
+665265092045496000	The Great Firewall of China @midnight #internetthepast #PointsMe	0		2	3
+665266900780224000	#InternetThePast @midnight Fresh new slaves for sale on eBay! Hurry! Supplies are limited!!!	0		1	
+665254864599953000	The Vietnam nom nom War #InternetThePast #PointsMe @midnight	0		1	
+665271626875957000	The blog of Anne Frank @midnight #InternetThePast	0		2	3
+665263076736761000	#InternetThePast @midnight #PointsMe  The Boston Lemon Party	0		1	
+665024248574967000	Retweet the Alamo #InternetThePast @midnight	1		1	
+665258338536390000	Flamewar of 1812 #InternetThePast @midnight	0		1	
+665257258176090000	Constitutional ammendments decided by comment up-votes #InternetThePast @midnight	0		1	
+665023377346723000	Buzzfeed's Top 10 Commandments #InternetThePast @midnight	1		3	3
+665281120502550000	The eBay of Pigs  #InternetThePast @midnight	2		3	3
+665257539450200000	alt.religion.thereisonlyonegod.thatisthesungod.ra.ra.ra #InternetThePast @midnight	0		1	
+665276998592282000	#InternetThePast @midnight Freddy Mercury has a laugh when Liberace shows up in his toilet stall after answering a CL casual encounter ad.	0		1	
+665254078725816000	"( this is in terrible taste, but... ) The Bombing of Nagasaki-mail #InternetThePast #PointsMe @midnight"	0		1	
+665268112443359000	@midnight Genghis Connectivity Problems #InternetThePast	0		2	3
+665045777593425000	"Craigslist - For Sale: Louisiana Territory. Includes jazz, hot sauce, and a bs Saints bandwagon. Best offer. #InternetThePast @midnight"	1		3	3
+665265894319263000	Bae of Pigs @midnight #InternetThePast	0		1	
+665263480044302000	World of Statecraft #InternetThePast  @midnight #PointsMe	0		1	
+665067758934237000	Battle of Emo Jima #InternetThePast @midnight #PointsMe	1		1	
+665271865519316000	Tiananmen FourSquare @midnight #InternetThePast	0		2	3
+665254542225764000	@midnight #InternetThePast the Lincoln Douglass E-Bates.	0		1	
+665281370705432000	The Federalist EULA @midnight  #InternetThePast	0		1	
+665274273481809000	Edison trolls Tesla's youtube channel. #InternetThePast @midnight #Tesla	0		2	3
+665253708918312000	Woodstock Spotify Festival @midnight  #InternetThePast #PointsMe	0		2	3
+665253025586413000	World Wide Web War I  ... &amp; II #InternetThePast #PointsMe @midnight	0		2	3
+665268435211845000	#InternetThePast @midnight Craigslist: Clean One owner! 1961 Lincoln Continental 4 Door Convertible for sale. Contact J Kennedy for details.	0		1	
+665251023359971000	To tweet or not to tweet. That is the question... #InternetThePast @midnight	0		1	
+665271794018983000	The photo bombing of pearl harbor @midnight #InternetThePast	0		1	
+665267893035118000	@midnight LOLcatherine the Gr8. #InternetThePast	0		2	3
+704536097091686000	Professor Xavier's Electoral College for Gifted Youngsters #PoliticalSuperheros @midnight	0		1	
+704660334586564000	@midnight Super-PAC Man!!!! #PoliticalSuperheros	0		1	
+704536273743118000	Iron Face Pelosi #PoliticalSuperheros @midnight	0		1	
+704536861436354000	Rand's Al Ghul @midnight #PoliticalSuperHeros	0		1	
+704661406491222000	@midnight #PoliticalSuperheros AquaRio Man... He really sucks	0		1	
+704532324822577000	Captain Combover #PoliticalSuperheros @midnight	0		2	1
+704668597247815000	Bernie-is-so-old-he-may-as-well-be-Dead pool #PoliticalSuperheros @midnight	0		2	1
+704629037474287000	Wait...you can't nominate the next Supreme Court Justice League #PoliticalSuperheros @midnight	0		1	
+704544134749511000	"Barbara ""Kick-Ass"" Boxer. #politicalsuperheros @midnight"	0		1	
+704526590055612000	#PoliticalSuperheros Choke The Photographer Out-Man @midnight	0		1	
+704629520310018000	@midnight #PoliticalSuperheros The Blue State Lantern	0		1	
+704524523744309000	#PoliticalSuperheros John Quincy Ant-Man @midnight	0		2	3
+704536720100831000	Supreme Court Justice League #politicalsuperheros @midnight	0		2	3
+704528985594531000	The Disappearing Man AKA Jeb Bush #PoliticalSuperheros @midnight	0		1	
+704542355701927000	Dan Quailman #PoliticalSuperheros @midnight	0		1	
+704526304008392000	@midnight #PoliticalSuperheros The Supreme Court of Justice League	0		2	3
+704530006710611000	Bob Dolemite #PoliticalSuperheros @midnight	0		1	
+704529217736736000	Hulk-FiliBuster #PoliticalSuperHeros @midnight	0		1	
+704556611902115000	"@midnight Late to the game... We do ""Debtpool"" yet? #PoliticalSuperheros"	0		2	3
+704542232729223000	Filibuster twins #PoliticalSuperheros @midnight	0		1	
+704542619192463000	#politicalsuperheros Guardians of the KKK @midnight #RepublicanParty #politicalsupervillans	0		1	
+704546385648082000	Klanzam Man #PoliticalSuperheros @midnight	0		1	
+704672076355928000	Brown v Legion of Doom #PoliticalSuperheros @midnight	0		2	3
+704529388747038000	Donald Despero #politicalsuperheros @midnight 	0		1	
+704545019152220000	Flint McAgain - aka Brittaman #PoliticalSuperheros @midnight	0		1	
+704566612251152000	The poorly timed Joker #PoliticalSuperheros   @midnight	0		2	3
+704541001839316000	#politicalsuperheros Lord of the Gerrymander-ring @missdaizy @midnight	0		2	7
+704545798407725000	Under The Table Dog #PoliticalSuperheros @midnight	0		1	
+704544552481259000	Donald 'The Goon' Trump @midnight #PoliticalSuperheros	0		2	7
+704672901987848000	"@midnight The Blob, Chris Christie #PoliticalSuperheros"	0		3	7
+704528523893968000	Professor Xs niXon #PoliticalSuperheros @midnight	0		2	3
+704682373690974000	Ronald Ray-Gun #PoliticalSuperheros @midnight	0		2	3
+704665585846775000	Senator Sinestro #PoliticalSuperheros @midnight	0		1	
+704533695647105000	The Rock Obama #PoliticalSuperHeros @midnight 	0		1	
+704551228022198000	The Green Launderer... #PoliticalSuperheros @midnight	0		2	3
+704526740723515000	Deadpoll #PoliticalSuperheros @midnight	0		2	3
+704630823899627000	Flint Aqua Man #PoliticalSuperheros @midnight	0		1	
+704534687566450000	HIL HYDRA @midnight #politicalsuperheros	0		1	
+704529709439143000	Not a superhero but @midnight Donald trumpgrave #politicalsuperheros #MakeDonaldDrumpfAgain	0		1	
+704540532320501000	Dr. Carson Manhattan -  Apathetic 2 all the fruit salads of life that are  Americans #PoliticalSuperHeros @midnight 	0		1	
+704532186729476000	Captain Merica #PoliticalSuperheros @midnight	0		1	
+704656159249137000	John McBane #PoliticalSuperheros @midnight	0		1	
+704536515934695000	Incoherent Rant Man #PoliticalSuperheros @midnight	0		1	
+704535088743194000	Captain America is Already Great  @midnight #PoliticalSuperheros #FuckDrumpf	0		1	
+704535797169573000	@midnight #PoliticalSuperheros YOU WOULDNT LIKE ME WHEN IM OFFENSIVE! its the orange trump!	0		1	
+704529535643971000	Darkwing LameDuck #PoliticalSuperheros @midnight	0		1	
+704527452660375000	Robert C. Byrd-Man #PoliticalSuperheros @midnight	0		1	
+704537715765809000	.@midnight Ben Carson the Silver Sleeper #politicalsuperheros	0		2	3
+704542806778318000	Hillary Ram Dat Clitman #PoliticalSuperheros @midnight	0		1	
+704634921973731000	Democrat Woman #PoliticalSuperheros @midnight	0		1	
+704536121263296000	Palin Potts @midnight #PoliticalSuperHeros	0		1	
+704535701631664000	@midnight Professor X-Pat #PoliticalSuperheros	0		2	3
+704665303221932000	Longshot @midnight #PoliticalSuperheros 	0		1	
+704671701586456000	Roe vs Wade Wilson #PoliticalSuperheros @midnight	0		3	3
+704540461038370000	Anung un RamaCare #politicalsuperheros @midnight	0		1	
+704530791833825000	@midnight #politicalsuperheros The invisible jeb #pleaseclap	0		1	
+704673080405131000	@midnight Hillary Quinton #PoliticalSuperheros	0		1	
+704529562621890000	#PoliticalSuperheros The Rooseveltveteen Rabbit @midnight	0		1	
+704704537177657000	The league of unscrupulous gentlemen #PoliticalSuperheros @midnight	0		1	
+704674381394382000	Teenage Mutant Mitch McConnell #PoliticalSuperheros @midnight	0		1	
+704635632346275000	#PoliticalSuperheros Invisible Girl AKA Carla Fiorina @midnight	0		1	
+704553641017942000	Green Randtern #PoliticalSuperheros @midnight	0		1	
+704534800846094000	Bernman #politicalsuperheros  @midnight	0		1	
+704527222154129000	@BernieSanders #politicalsuperheros  @midnight	0		1	
+704528723878371000	Fat Cat Woman  #PoliticalSuperheros @midnight	0		1	
+704747529309650000	@midnight #PoliticalSuperheros  Ben Grimm Carson	0		1	
+704539623037382000	Duperman... The ability to con citizen into thinking he cares about them...@midnight #politicalsuperheros	0		1	
+704753231159808000	SuperGerryman...dering.  #PoliticalSuperheros @midnight	0		1	
+704542268804304000	Green Card Lanturn @midnight #PoliticalSuperheros	0		2	3
+704527856013971000	The mind eraser dr ben #PoliticalSuperheros @midnight	0		2	3
+704527326407557000	The Incredible Newt #PoliticalSuperheros @midnight	0		1	
+704536017882099000	#politicalsuperheros The Scarlet Clinton @missdaizy @midnight	0		1	
+704536927089852000	Lex Lobbyist #PoliticalSuperHeros @midnight	0		1	
+704551505202810000	Optimus Primary #politicalsuperheros @midnight	0		1	
+704535091939287000	LGB-Kitty Pryde #PoliticalSuperHeros @midnight	0		1	
+704542734380453000	#PoliticalSuperheros Phony Stark. @midnight	0		1	
+704535529161932000	"Wonder-Herpes Hillary ""Thanks Bill"" #PoliticalSuperheros @midnight"	0		1	
+704542400119635000	@midnight #PoliticalSuperHeros   The Black Panderer	0		1	
+704529307566108000	FilibuStorm. #PoliticalSuperheros @midnight	0		1	
+704526082372870000	#PoliticalSuperHeros @midnight  Dark RightWing Duck	0		1	
+704543898224427000	Hillrazer #PoliticalSuperheros @midnight	0		1	
+704540269597708000	Leader of the egg army #politicalsuperheros @midnight	0		1	
+704546762166501000	Apache Chief of Staff #PoliticalSuperheros @midnight	0		1	
+704554110805274000	@realDonaldTrump replacing @perlmutations as Hairboy #politicalsuperheros @midnight	0		2	7
+704678653926309000	Harry Reid Richards #PoliticalSuperheros @midnight	0		1	
+704748017413394000	@midnight #PoliticalSuperheros  Hillary Ratman Clinton	0		1	
+704526684247052000	#PoliticalSuperHeros @midnight  Sandersman	0		1	
+704537024309514000	Super Delegate #PoliticalSuperheros @midnight	0		1	
+704670453051334000	"Martian, Mexican, and Muslim Manhunter #PoliticalSuperheros @midnight"	0		1	
+704538291857534000	Abe Lincoln Sapien #politicalsuperheros @midnight	0		1	
+704532013760425000	Fatman and Robbin' #PoliticalSuperheros @midnight 	0		1	
+704535122456944000	Hair Grey #PoliticalSuperheros @midnight	0		1	
+704534932182409000	Ghost speech writer @midnight #politicalsuperheros	0		1	
+704543271180054000	Dead Kennedys #PoliticalSuperheros @midnight	0		1	
+704543891677016000	"Trump, son of Stone #PoliticalSuperheros @midnight"	0		1	
+704655892122378000	@midnight Wonder Warren  #PoliticalSuperheros	0		2	3
+704526579276378000	Thorrin Hatch #PoliticalSuperheros @midnight	0		1	
+704623158821650000	ruth darth vader ginsberg #PoliticalSuperheros @midnight	0		3	3
+704539512257519000	G.I.Jokers #RepubicanParty #PoliticalSuperheros @midnight	0		1	
+704525098976301000	#PoliticalSuperHeros @midnight  Captain Make America Great Again.	0		2	3
+704529586525048000	Invisible Jeb. #PoliticalSuperheros @midnight	0		1	
+704634698178256000	Abraham Lincomic-coln #PoliticalSuperheros @midnight	0		1	
+704530195198418000	"@midnight #politicalsuperheros it's a bird, it's a plane,. It's SUPER PAC"	0		1	
+704631020788682000	Guardians of the Bigotry #PoliticalSuperheros @midnight	0		2	6
+704532312940257000	Tax Evation Avengers. #PoliticalSuperheros @midnight	0		1	
+704542880459726000	#PoliticalSuperheros Mr.Incredibly-out-of-touch. @midnight	0		1	
+704543259981316000	@midnight The Silver Slander  #PoliticalSuperHeros	0		1	
+704535034842120000	@midnight #PoliticalSuperheros Scarlett Palin	0		1	
+704537545938509000	Madam Pantsuit #PoliticalSuperheros @midnight	0		1	
+704525443215527000	Anti-Abomination #PoliticalSuperheros  @midnight	0		1	
+704704979743821000	Deadpollster  #PoliticalSuperheros @midnight	0		1	
+704529906873446000	@midnight Tricky Dick Grayson #PoliticalSuperheros	0		1	
+704544070572453000	The Green Card Lantern #PoliticalSuperheros @midnight	0		2	6
+704537143197229000	.@midnight The Abstinence-only seX men #politicalsuperheros	0		1	
+704544562631421000	WONDER when she will release the transcripts WOMAN @midnight #PoliticalSuperheros	0		1	
+704536081350275000	The Dark Knight rises and makes America great again #politicalsuperheros @midnight	0		1	
+704538778665222000	Shiva #Trump - Destroyer of the (GOP) world #PoliticalSuperHeros @Midnight	0		1	
+704526710088163000	Project X Clinton..declassified #PoliticalSuperheros @midnight	0		1	
+704528689287950000	FATman &amp; Rubio #PoliticalSuperheros @midnight 	0		1	
+704525170195734000	Republican War Machine  #PoliticalSuperheros @midnight	0		1	
+704545524460945000	Dr. Strange Everett Coop #PoliticalSuperheros @midnight	0		1	
+704537733021224000	Attorney General Zod #PoliticalSuperHeros @midnight	0		2	3
+704543287953063000	Green Card U-Turn Arrow #PoliticalSuperheros @midnight	0		1	
+704525121009090000	@midnight Deadpolls the highest numbers #PoliticalSuperHeros	0		1	
+704535262920048000	#PoliticalSuperheros The Trumpinator @midnight	0		2	3
+704528474308915000	Super Tuesday Man #PoliticalSuperheros @midnight	0		1	
+704534618784067000	Odin All-Deadbeat-Father #PoliticalSuperheros @midnight	0		1	
+704656114600771000	Trump vs Cruz: Dawn  of Stupid #PoliticalSuperheros @midnight	0		2	7
+704677167154614000	Sentinel Majority Leader #PoliticalSuperheros @midnight	0		2	7
+704535986898931000	Captain Vetted #PoliticalSuperheros @midnight	0		1	
+704535855864619000	@midnight fantastic gore #politicalsuperheros	0		1	
+704670916219953000	@midnight   Lech Walesa #PoliticalSuperheros	0		1	
+704763136654462000	Old Ass Mutant McConnell Turtle  @midnight #PoliticalSuperheros	0		1	
+704527756172914000	Baberiham Lincoln #politicalsuperheros @midnight	0		1	
+704544759361179000	The Crow's Feet #PoliticalSuperheros @midnight	0		1	
+704540343333724000	Bad hair man @midnight #Politicalsuperheros	0		1	
+704530354690990000	He-Man Cain #politicalsuperheros @midnight	0		1	
+704536253413195000	The Avengers of 9/11 #politicalsuperheros @midnight	0		1	
+704533447851831000	Ragnarok the vote #PoliticalSuperheros @midnight	0		1	
+704535367014174000	Reidler #PoliticalSuperHeros @midnight	0		1	
+704527862477402000	Spidermayor #PoliticalSuperheros @midnight	0		1	
+704531981883863000	Super Pac #PoliticalSuperHeros @midnight	0		1	
+704528418981990000	Mr. Uuuuge #PoliticalSuperheros @midnight	0		1	
+704557134453682000	#PoliticalSuperheros @midnight  SPLAT-MAN 	0		1	
+704531491875717000	Bernie Sandman @midnight #PoliticalSuperheros	0		2	3
+704530084070187000	Super Tuesday with sidekick Dynamo Delegate #PoliticalSuperheros @midnight	0		1	
+704528094535806000	Grass Groots #PoliticalSuperheros @midnight	0		1	
+704551537184342000	Rant Man #PoliticalSuperheros @midnight	0		1	
+704546492363759000	Iron Worker Lobbyistman #PoliticalSuperheros @midnight	0		1	
+704670611239526000	CAn't Man #PoliticalSuperheros @midnight	0		1	
+704755071532322000	@midnight Kochmen and Robbin' #PoliticalSuperheros	0		1	
+704528030689955000	Supermajorityman #PoliticalSuperheros @midnight	0		1	
+704543038844985000	Antonin Man  #PoliticalSuperheros @midnight	0		1	
+704533382915444000	All I got is @RonFunches for @potus   @midnight   #PoliticalSuperHeros	0		1	
+704529879744835000	Elizabeth Warren-Woman #PoliticalSuperHeros  #Heroines @midnight @elizabethforma	0		1	
+704535339638063000	@midnight #politicalsuperheros teenage mutant Mitch McConnell's	0		1	
+704528797652004000	Teenage Mutant Ninja Caucus #PoliticalSuperheros @midnight	0		1	
+704534717786365000	Malcolm X-Men #PoliticalSuperHeros @midnight	0		2	3
+704547377269477000	The Green Lantern Jon Stewart #politicalsuperheros @midnight	0		1	
+704541536596287000	#politicalsuperheros @midnight Any-candidate Two-face #politicalsupervillans	0		1	
+704538799410249000	Barnyard the depp dog destroyer from down under @midnight #politicalsuperheros 	0		1	
+704633105613651000	Batman and Robbin' from the poor #PoliticalSuperheros @midnight	0		1	
+704535594383368000	I demand a ReCount Man @midnight #PoliticalSuperheros	0		1	
+704535875728891000	"Kasich, The Invisible Man  #PoliticalSuperheroes @midnight"	1		1	
+704527778738257000	"If they wear a legitimate cape, their bodies know to shut down. #PoliticalSuperheroes @midnight"	1		2	3
+704526135720153000	@midnight Janet Wolvereno #PoliticalSuperHeroes	1		1	
+704524130524094000	Dr Carson Strange @midnight #PoliticalSuperheroes	1		1	
+704563906480631000	ThatGuy Who Threw His Shoe At George W Bush #PoliticalSuperheroes @midnight	1		1	
+704558502916677000	Avengers: Age of Ultrump #PoliticalSuperheroes @midnight	1		1	
+704530472508923000	The Ambiguously Vague Duo #PoliticalSuperheroes @midnight	1		1	
+704545623710822000	Captain No Planet #PoliticalSuperheroes @midnight	2		2	7
+704527410096549000	Captain 'Merica #PoliticalSuperheroes @midnight	1		1	
+704524276959993000	Captain Take Back America @midnight #PoliticalSuperheroes	1		1	
+747877063282032000	@midnight #VisitBritainBecause you can call someone a c*nt and still feel like a lady.	0		1	
+747862722595819000	@midnight #VisitBritainBecause Buckingham palace is for sale on Craigslist	0		1	
+747839886607028000	"@midnight #VisitBritainBecause  To find the person that started ""#brexit"" to make sure he didn't mean ""#breakfast"""	0		2	3
+747868645682974000	#VisitBritainBecause in a few months it'll be like a real-life #GameofThrones @midnight	0		1	
+747856069699862000	#VisitBritainBecause it's a 'great' country!!! @midnight	0		1	
+747857851616370000	#VisitBritainBecause where else can you bangers and mash with a spotted dick? @midnight	0		1	
+747838582631636000	"@midnight #VisitBritainBecause The English Nat'l Team is back home, know...  #EURO2016"	0		1	
+747887353948180000	@midnight #VisitBritainBecause No one gets upset by you asking for a fag	0		1	
+747850884101578000	#VisitBritainBecause it shall be gone in a fortnight @midnight	0		1	
+747840010800476000	@midnight #VisitBritainBecause Trump isn't always there	0		1	
+747847602071166000	#VisitBritainBecause pretty soon there will be nothing left but the remains. @midnight	0		1	
+747863863933157000	#VisitBritainBecause my house is older than your country and that fact slightly screws with your minds (built circa 1530) @midnight	0		1	
+747880625068118000	#VisitBritainBecause it's your last chance to see the Buckingham Palace guards before they're deployed to the front lines. @midnight	0		1	
+747862543364820000	@midnight #VisitBritainBecause it will soon host the worlds largest yard sale	0		1	
+747856551990353000	#VisitBritainBecause you can take a bath in a town called Bath! @midnight	0		2	3
+747862358421168000	#VisitBritainBecause Who else will now? @midnight	0		2	3
+747850081525628000	#VisitBritainBecause Merica just ain't that great no more. @midnight	0		1	
+747842673718005000	@midnight #VisitBritainBecause who really likes flavor in their food?	0		1	
+747836258265686000	#VisitBritainBecause Doctor Who. Duh @midnight	0		1	
+747896826695684000	@midnight a bit late but here I go... #VisitBritainBecause the next prime minister might be an american	0		1	
+747881117303332000	#VisitBritainBecause I need you to help me get out of here. @midnight	0		1	
+747836346140549000	#VisitBritainBecause fish and chips mate @midnight	0		1	
+747892073026588000	@midnight #VisitBritainBecause You might see Thor trying to stop the convergence in London.  Or maybe Selvig not wearing any pants.	0		1	
+747857238086213000	#VisitBritainBecause we haven't met our quota of foreigners killed trying to take a picture while crossing Abbey Road. @midnight	0		1	
+747841028581793000	#VisitBritainBecause it'll up your chances of getting to punch Nigel Farage right in his smug fucking face @midnight	0		1	
+747852530273525000	R + L = J #VisitBritainBecause @midnight	0		1	
+747839014296764000	#VisitBritainBecause On the other side is to much Big Ben and Parliament plus it's hard to get left. @midnight 	0		1	
+747884110920687000	#VisitBritainBecause we have the healthiest teeth @midnight	0		1	
+747897369438601000	"Come for Paul, stay for Ringo. #VisitBritainBecause @GregProops @midnight "	0		2	3
+747854048645177000	"If they made Tom Hardy, they can't all be bad. #VisitBritainBecause #SexySexyManmeat @midnight"	0		1	
+747874831966801000	"Cheerio, @midnight top tweeters! @SheJStaz @jeff_hofmann @tonygoldmark #VisitBritainBecause Good luck tonight!  "	0		1	
+747871289197592000	@midnight #VisitBritainBecause you missed your connecting flight to somewhere more exciting and are forced to spend the night there	0		1	
+747896900246872000	@midnight #VisitBritainBecause There's no @reaDonldTrump	0		1	
+747892375490543000	@midnight #VisitBritainBecause  its where Greg Proops spent his wilderness years. He could have starved.	0		1	
+747869876212142000	@midnight #VisitBritainBecause the weather isn't good! It is summer and we are still wearing coats! 	0		1	
+747713354924441000	#VisitBritainBecause Thom Yorke will fuckin' hate it. @midnight	1		1	
+747641421230936000	#VisitBritainBecause warm beer and cold rain means less Jimmy Buffett @midnight	1		2	3
+747633951712346000	#VisitBritainBecause a tea party there has people attending that can spell. @midnight	1		2	8
+747650225817460000	#VisitBritainBecause Hogwarts Is Going To Shut Down & Reopen As A Fuddruckers. @hardwick @midnight	1		1	
+747644156248526000	#VisitBritainBecause Monty Python was a documentary as far as you know. @midnight	1		2	3
+747635824146034000	"#VisitBritainBecause ""It's 11:59 and 59 seconds"" is much more dramatic when big Ben is involved @midnight"	1		1	
+747647841758240000	"#VisitBritainBecause Who wouldn't want to walk on a gravelly beach under an omnipresent, overcast sky? @midnight"	1		1	
+747633111450607000	@midnight #VisitBritainBecause Trump doesn't know where it is and will never find you.	1		1	
+747634837075304000	#VisitBritainBecause Tilda Swinton is molting. @midnight	2		1	
+747639886463795000	"I'll #VisitBritainBecause I want to buy some castles, I hope they're having a sale @midnight"	1		2	3
