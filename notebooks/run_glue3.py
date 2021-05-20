@@ -319,6 +319,7 @@ def main():
     #
     # In distributed training, the .from_pretrained methods guarantee that only one local process can concurrently
     # download model & vocab.
+
     config = AutoConfig.from_pretrained(
         model_args.config_name if model_args.config_name else model_args.model_name_or_path,
         num_labels=num_labels,
@@ -333,7 +334,10 @@ def main():
         use_fast=model_args.use_fast_tokenizer,
         revision=model_args.model_revision,
         use_auth_token=True if model_args.use_auth_token else None,
+        truncation=True,
     )
+
+
     logger.info("KEV: model revision " + model_args.model_revision)
     logger.info("KEV: T5 model revision " + ('3.5.1' if model_args.model_name_or_path=='t5-base' else model_args.model_revision))
     if data_args.jb_task_name=='t5' :
@@ -355,6 +359,13 @@ def main():
             revision=model_args.model_revision,
             use_auth_token=True if model_args.use_auth_token else None,
         )
+        # For GPT2 resize model embedding to match new tokenizer
+
+    if  "gpt" in model_args.tokenizer_name :
+        tokenizer.padding_side = "left"
+        tokenizer.pad_token = tokenizer.eos_token
+        model.resize_token_embeddings(len(tokenizer))
+        model.config.pad_token_id = model.config.eos_token_id
 
     # Preprocessing the datasets
     if (data_args.task_name is not None):
