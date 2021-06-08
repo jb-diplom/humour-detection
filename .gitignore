@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/results/correlations/htype/mp-tweets_ernie-L-htype_3eAdam2021-05-25_15.48.01.tsv
