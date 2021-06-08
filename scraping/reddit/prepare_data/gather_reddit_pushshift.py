@@ -60,12 +60,12 @@ def extract_reddit_data(**kwargs):
     # num_secs_back=60
     # max_created_utc = int(datetime.datetime.now().timestamp())-int(num_secs_back*num_mins_back*num_hours_back*num_days_back*num_years_back)
     max_id = 0
-    max_created_utc= 1488147902 #1559920049
+    max_created_utc= 1559920049 #1559920049
 
     # Open a file for JSON output
     filename="submissions" + str(max_created_utc) +".json"
     
-    file = open(os.path.join(os.path.realpath('..'), "dataSurreal", filename), "w")
+    file = open(os.path.join(os.path.realpath('../../../data-training/'), "dataSurreal", filename), "w")
     # file = open(os.path.join(os.path.realpath('..'), "dataShowerThoughts", filename), "w")
     # file = open(os.path.join(os.path.realpath('..'), "datasarcasm", filename), "w")
 
@@ -99,10 +99,10 @@ def extract_reddit_data(**kwargs):
 # 1) Subreddit specified
 # 2) The type of data required (comment or submission)
 # extract_reddit_data(subreddit="jokes",type="submission")
-# extract_reddit_data(subreddit="sarcasm",type="submission")
+extract_reddit_data(subreddit="sarcasm",type="submission")
 # SurrealHumor
 # funny
-extract_reddit_data(subreddit="SurrealHumor",type="submission")
+# extract_reddit_data(subreddit="SurrealHumor",type="submission")
 # extract_reddit_data(subreddit="Showerthoughts",type="submission")
 
 # extract_reddit_data(subreddit="PoliticalHumor",type="submission")

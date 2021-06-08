@@ -154,10 +154,10 @@ def read_filter_and_preprocess(file_name: str = "fullrjokes.json", output_name: 
     print("For log prediction task, {} unique jokes\n".format(df.shape))
     df = df[["score", "joke"]]
 
-    file_in='../../../TwitterScraper/snscrape/python-wrapper/serious_tweets.tsv'
-    serious = pd.read_csv(file_in, delimiter='\t', quoting=csv.QUOTE_NONE, escapechar='\\', header=None, names=['score', 'joke'], encoding="UTF-8")
-    serious = serious.replace([np.inf, -np.inf], np.nan)
-    serious = serious.dropna()
+    # file_in='../../../TwitterScraper/snscrape/python-wrapper/serious_tweets.tsv'
+    # serious = pd.read_csv(file_in, delimiter='\t', quoting=csv.QUOTE_NONE, escapechar='\\', header=None, names=['score', 'joke'], encoding="UTF-8")
+    # serious = serious.replace([np.inf, -np.inf], np.nan)
+    # serious = serious.dropna()
 
     assert serious["joke"].isnull().any() == False, "there were NaNs in the joke columns, ERROR"
     # print ("Testing for 0's")
@@ -214,5 +214,7 @@ if __name__ == "__main__":
 
 # python preprocess.py --update --subdir_name dataShowerThoughts --file_name_update submissions.json --output_name_update fulldataSHowerThoughts.json
 
-
+# next lines take account of changed file structure across to data-training... or wherever you want to ha^ve the data saved
+# python preprocess.py --preprocess --subdir_name ../../data-training/dataSurreal --file_name_preprocess fulldataSurreal.json
+# python preprocess.py --update --subdir_name ../../data-training/dataSurreal --file_name_update submissions1488147902.json --output_name_update fulldataSurreal.json
 # %%

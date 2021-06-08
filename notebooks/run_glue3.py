@@ -361,7 +361,7 @@ def main():
         )
         # For GPT2 resize model embedding to match new tokenizer
 
-    if  "gpt" in model_args.tokenizer_name :
+    if  "gpt" in model_args.tokenizer_name.lower()  :
         tokenizer.padding_side = "left"
         tokenizer.pad_token = tokenizer.eos_token
         model.resize_token_embeddings(len(tokenizer))
