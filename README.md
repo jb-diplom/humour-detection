@@ -103,10 +103,10 @@ Begin by loading the scraped twitter data
 ## Calculate Statistics
 ![Statistics](./images/stats.gif)
 
-## Viszalize Propagation Statistics
+## Visualize Propagation Statistics
 ![Propagation](./images/propagation_bars.gif)
 
-## Viszalize User Statistics
+## Visualize User Statistics
 ![Propagation](./images/user_bars.gif)
 
 
