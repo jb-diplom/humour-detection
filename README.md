@@ -89,11 +89,28 @@ Finally the precision coefficients (F1 and Matthew's) are calculated and the res
 ![Test Model](./images/create_confusionmatrix.gif)
 
 
-### Testing
+# Correlate with Twitter data
+## Load Twitter Data
+Begin by loading the scraped twitter data
+![Load Twitter](./images/load_twitterdata.gif)
 
-### 
+## Filter According to Number of Likes (optionally)
+![Filter according to likes](./images/filter_according2likes.gif)
 
-## Versioning
+## Visualize in Facetted Scatter Plot
+![Facetted Scatter Plot](./images/scatterplot.gif)
+
+## Calculate Statistics
+![Statistics](./images/stats.gif)
+
+## Viszalize Propagation Statistics
+![Propagation](./images/propagation_bars.gif)
+
+## Viszalize User Statistics
+![Propagation](./images/user_bars.gif)
+
+
+# Versioning
 
 All code is versioned in Github in [this repository](https://github.com/jb-diplom/humour-detection). 
 
@@ -107,4 +124,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.
 
 ## Acknowledgments
 
-* Many thanks to my thesis supervisor [Dr. Damian Trilling](http://www.damiantrilling.net/) for basically letting me get on with it but providing advice and guidance as needed
+* Many thanks to my thesis supervisor [Dr. Damian Trilling](https://www.uva.nl/en/profile/t/r/d.c.trilling/d.c.trilling.html) for basically letting me get on with it but providing advice and guidance as needed
