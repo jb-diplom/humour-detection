@@ -67,7 +67,7 @@ tweets_df1.to_csv('comedian-tweets250.csv', sep='\t', index=False, encoding="utf
 There are various utility functions further down in this notebook, for instance for saving purely serious data (without meta-data) with the annotation '0' indication humour-type 0 (i.e. serious)
 
 # Fine-Tuning 
-The fine-tuning takes placeusing the [Colab-Notebook] (https://github.com/jb-diplom/humour-detection/blob/main/notebooks/NLM_Trainer.ipynb). Here ar the steos needed:
+The fine-tuning takes place using the [Colab-Notebook] (https://github.com/jb-diplom/humour-detection/blob/main/notebooks/NLM_Trainer.ipynb). Here are the steps needed:
 
 ## Installation and Imports
 ![Install and Import](./images/imports.gif)
@@ -83,10 +83,19 @@ The fine-tuning takes placeusing the [Colab-Notebook] (https://github.com/jb-dip
 ## Do Fine-Tuning
 ![Fine-Tuning](./images/fine-tuning.gif)
 
+## Monitoring the Fine-Tuning
+
+During fine-tuning the process is configured to update the statistics every X steps (number of logging-steps can be specified in [the parameters section](#Specifying-Model-Type-and-Fine-Tuning-Parameters))
+![Monitoring](./images/monitoring.gif)
+
 ## Test The Model
 Here the model is loaded from the W&B database, the amount of data to be used for testing is chosen (here 1000 records), the model is tested with the data and the resultant statistics (ROC, precision and recall) are calculated and visualized in a confusion matrix.<br>
 Finally the precision coefficients (F1 and Matthew's) are calculated and the results written back to W&B<br>
 ![Test Model](./images/create_confusionmatrix.gif)
+
+## Project Dashboard
+In [W&B](https://wandb.ai/) a [project dashboard](https://wandb.ai/jb-diplom/janice-final/reports/Dashboard-humour-type-humour-degree-and-binary-humour-detection---Vmlldzo3MjE0NTI?accessToken=7pnh3o16evevab0a8abpt2th6ph0da4xg6575x2hoh3otkp8w1ch4sfbk2l54i0l) has been configured, which allows a visual comparison of the fine-tuned models. You can easily see which hyperparameters have a deciding effect on the precision coefficients.
+![WandB-Dashboard](./images/dashboard.gif)
 
 
 # Correlate with Twitter data
